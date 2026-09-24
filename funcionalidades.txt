@@ -1,4 +1,4 @@
 Funcionalidades del proyecto:
-Gestión de usuarios
+Gestión de usuarios: permite registrar, modificar y administrar los usuarios del sistema.
 Gestión de pedidos: permite crear, modificar y cancelar pedidos.
-Consulta de información
+Consulta de información 
