@@ -1,0 +1,4 @@
+Funcionalidades del proyecto:
+Gestión de usuarios.
+Gestión de pedidos.
+Consulta de información.
