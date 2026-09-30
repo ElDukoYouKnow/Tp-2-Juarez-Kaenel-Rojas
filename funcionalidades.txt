@@ -1,0 +1,5 @@
+Funcionalidades del proyecto:
+Gestión de usuarios: permite registrar, modificar y administrar los usuarios del sistema.
+Gestión de pedidos: permite crear, modificar y cancelar pedidos.
+Consulta de información
+Consulta de menús: permite visualizar los menús disponibles para cada día.
